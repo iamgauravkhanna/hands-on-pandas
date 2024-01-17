@@ -1,0 +1,7 @@
+python3 -m venv pandas_env
+
+source pandas_env/bin/activate
+
+pip3 install ipython
+
+pip3 install pandas
